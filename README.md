@@ -49,8 +49,7 @@ I believe in *learning by building & breaking things*.
 
 ## 🔗 Connect With Me
 - 💻 GitHub: https://github.com/RohitV33  
-- 🔗 LinkedIn: *(add when ready)*  
-- 🧠 LeetCode / CodeChef / HackerRank *(optional)*  
+- 🔗 LinkedIn:https://www.linkedin.com/in/rohit-verma-21ab511b4/
 
 ---
 
