@@ -40,9 +40,9 @@ I believe in *learning by building & breaking things*.
 ---
 
 ## 📊 GitHub Stats
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitV33&show_icons=true&theme=tokyonight)
+![Rohit’s GitHub Stats](https://github-readme-stats-xdxz.vercel.app/api?username=RohitV33&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitV33&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-xdxz.vercel.app/api/top-langs/?username=RohitV33&layout=compact&theme=tokyonight)
 
 ---
 
