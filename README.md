@@ -9,7 +9,7 @@
 ## 🚀 About Me
 I enjoy building scalable web applications and experimenting with security tools.  
 Currently exploring **backend development**, **web security**, and **system design**.  
-I believe in *learning by building & breaking things*.
+I believe in *learning by building & breaking things*
 
 ---
 
