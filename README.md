@@ -11,13 +11,19 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=RohitV33&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views" />
-  <a href="https://github.com/RohitV33?tab=followers">
-    <img src="https://img.shields.io/github/followers/RohitV33?label=Followers&style=flat-square&color=7c3aed&logo=github" alt="followers" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RohitV33&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/followers/RohitV33?label=Followers&style=for-the-badge&color=8B5CF6&logo=github" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rawhit01">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rohit-verma-21ab511b4/">
-    <img src="https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="mailto:verma61421st@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -27,43 +33,40 @@
 
 ## 🧠 About Me
 
-```typescript
-const rohit: Developer = {
-  name: "Rohit Verma",
-  role: "Full-Stack Developer & Security Enthusiast",
-  location: "India 🇮🇳",
-  education: "Computer Science Student",
-  focus: ["Fulll Stack Development", "WCyber Security", "Data Analytics"],
-  currentlyLearning: ["Docker", "System Design", "Advanced Security"],
-  philosophy: "Learn by building & breaking things 🔨",
-  openToWork: true,
-};
+
+## 🚀 Developer Profile
+
+```yaml
+Name: Rohit Verma
+
+Role:
+  Full-Stack Developer
+
+Focus:
+  - Full-Stack Development
+  - Web Security
+  - Cloud Computing
+
+Currently Learning:
+  - Docker
+  - System Design
+  - Backend Architecture
+
+Open To:
+  - Internships
+  - Collaborations
+  - Freelance Work
+
+Philosophy:
+  "Build. Break. Learn. Repeat."
 ```
 
 ---
-
-## 🛠️ Tech Stack & Tools
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,react,tailwind,nodejs,express,mongodb,mysql,postgres,git,github,postman,vscode,docker&perline=8" />
 
 </div>
 
@@ -73,28 +76,59 @@ const rohit: Developer = {
 
 <div align="center">
 
-| Project | Description | Tech |
-|---|---|---|
-| 🔐 **[Web Fuzzing Tool](https://github.com/RohitV33)** | Automated vulnerability testing tool to detect hidden endpoints, parameters & security misconfigurations | `React` `Node.js` `Mongodb` |
-| 🛍️ **[Nazara – E-Commerce Website](https://github.com/RohitV33)** | A full-stack e-commerce platform with product listings, cart, and order management | `React.js` `Node.js` `Express` `PostgreSql` |
-| 🔄 **[Bartr – Skill Exchanger](https://github.com/RohitV33)** | A peer-to-peer skill exchange platform where users trade expertise instead of money | `React.js` `Express` `PostgreSQL` |
+### 🔐 Web Fuzzing Tool
 
-</div>
+> Automated security testing platform for discovering hidden endpoints, security misconfigurations, SQL Injection, and XSS vulnerabilities.
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB` `Tailwind CSS`
 
 ---
+
+### 🛍️ Nazara — Full-Stack E-Commerce Platform
+
+> Modern e-commerce platform featuring authentication, product management, search, filtering, shopping cart, and order processing.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `PostgreSQL`
+
+---
+
+### 🔄 Bartr — Skill Exchange Platform
+
+> Peer-to-peer platform where users exchange skills, collaborate, learn together, and communicate in real time.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT`
+
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-xdxz.vercel.app/api?username=RohitV33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats-xdxz.vercel.app/api/top-langs/?username=RohitV33&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RohitV33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitV33&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitV33&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RohitV33&theme=tokyonight&hide_border=true" />
+
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RohitV33&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
 
 ## 📈 Contribution Graph
 
@@ -104,16 +138,6 @@ const rohit: Developer = {
 
 ---
 
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="verma61421st@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/rohit-verma-21ab511b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <br/><br/>
 
