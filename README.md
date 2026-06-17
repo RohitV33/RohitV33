@@ -30,10 +30,6 @@
 </div>
 
 ---
-
-## 🧠 About Me
-
-
 ## 🚀 Developer Profile
 
 ```yaml
