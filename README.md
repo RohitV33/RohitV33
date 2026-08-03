@@ -102,29 +102,20 @@ Philosophy:
 
 </div>
 
-## 📊 GitHub Analytics
+
+---
+
+# 💻 Problem Solving
+
+> Solved **200+** Data Structures & Algorithms problems on LeetCode.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RohitV33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitV33&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://leetcard.jacoblin.cool/rohit6142?theme=dark&font=JetBrains+Mono&ext=contest"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RohitV33&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RohitV33&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
+---
 
 ## 📈 Contribution Graph
 
