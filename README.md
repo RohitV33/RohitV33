@@ -1,31 +1,24 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohit%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:111827,40:312E81,70:7C3AED,100:C084FC&text=Rohit%20Verma&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Cyber%20Security%20Explorer&descAlignY=60&descSize=18"/>
 
-<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+Real+World+Projects+🚀;Java+•+JavaScript+•+TypeScript;Full-Stack+Developer;Web+Security+%26+Fuzzing+Research;Learning+Something+New+Every+Day"/>
+
+<br>
+
 <a href="https://github.com/RohitV33">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Web+Security+%26+Fuzzing+Enthusiast+%F0%9F%94%90;Java+%7C+JavaScript+%7C+TypeScript+Dev;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://img.shields.io/github/followers/RohitV33?style=for-the-badge&logo=github&color=7C3AED"/>
 </a>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=RohitV33&style=for-the-badge&color=8B5CF6"/>
 
-<!-- Profile Views & Social Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohitV33&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
+<a href="mailto:verma61421st@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
-  <img src="https://img.shields.io/github/followers/RohitV33?label=Followers&style=for-the-badge&color=8B5CF6&logo=github" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rawhit01">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:verma61421st@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/rawhit01">
+<img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
+</a>
 
 </div>
 
