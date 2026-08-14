@@ -128,9 +128,16 @@ and relevant details, with AI-assisted image analysis.
 
 **Full-stack reporting · REST APIs · AI integration · Image analysis**
 
+<a href="https://civic-lens-blush.vercel.app/">
+<img src="https://img.shields.io/badge/↗%20VIEW%20LIVE%20PROJECT-10B981?style=for-the-badge&logo=vercel&logoColor=07111A"/>
+</a>
+
 </div>
 
+
+
 <br><br>
+
 
 <div align="center">
 
@@ -158,7 +165,13 @@ with the frontend.
 
 `API Design` · `Scan Processing` · `Backend Integration`
 
+<a href="https://bartr-blond.vercel.app/">
+<img src="https://img.shields.io/badge/↗%20VIEW%20LIVE%20PROJECT-10B981?style=for-the-badge&logo=vercel&logoColor=07111A"/>
+</a>
+
 </div>
+
+
 
 <br><br>
 
