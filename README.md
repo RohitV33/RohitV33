@@ -299,27 +299,36 @@ Understand it. Fix it. Ship it.
 <br>
 
 ---
-
 <div align="center">
 
 # `05 — GITHUB`
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RohitV33&show_icons=true&hide_border=true&bg_color=07111A&title_color=E2F3F5&text_color=8CA3AD&icon_color=10B981&rank_icon=github"/>
+<!-- GitHub Stats -->
+<img
+  height="170"
+  src="https://github-readme-stats-fast.vercel.app/api?username=RohitV33&show_icons=true&hide_border=true&bg_color=07111A&title_color=E2F3F5&text_color=8CA3AD&icon_color=10B981&rank_icon=github"
+/>
 
 &nbsp;&nbsp;
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitV33&hide_border=true&background=07111A&ring=10B981&fire=22D3EE&currStreakLabel=E2F3F5&sideLabels=8CA3AD&dates=5D737D"/>
+<!-- GitHub Streak -->
+<img
+  height="170"
+  src="https://streak-stats.demolab.com/?user=RohitV33&hide_border=true&background=07111A&ring=10B981&fire=22D3EE&currStreakLabel=E2F3F5&sideLabels=8CA3AD&dates=5D737D"
+/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitV33&bg_color=07111A&color=22D3EE&line=10B981&point=E2F3F5&area=true&hide_border=true"/>
+<!-- Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=RohitV33&bg_color=07111A&color=22D3EE&line=10B981&point=E2F3F5&area=true&hide_border=true"
+/>
 
 </div>
 
 <br>
-
 ---
 
 <div align="center">
