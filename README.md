@@ -301,55 +301,141 @@ Understand it. Fix it. Ship it.
 ---
 <div align="center">
 
-# `05 — GITHUB`
-
-<br>
-
-<!-- GitHub Stats -->
-<img
-  height="170"
-  src="https://github-readme-stats-fast.vercel.app/api?username=RohitV33&show_icons=true&hide_border=true&bg_color=07111A&title_color=E2F3F5&text_color=8CA3AD&icon_color=10B981&rank_icon=github"
-/>
-
-&nbsp;&nbsp;
-
-<!-- GitHub Streak -->
-<img
-  height="170"
-  src="https://streak-stats.demolab.com/?user=RohitV33&hide_border=true&background=07111A&ring=10B981&fire=22D3EE&currStreakLabel=E2F3F5&sideLabels=8CA3AD&dates=5D737D"
-/>
-
-<br><br>
-
-<!-- Activity Graph -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=RohitV33&bg_color=07111A&color=22D3EE&line=10B981&point=E2F3F5&area=true&hide_border=true"
-/>
-
-</div>
-
-<br>
----
+<!-- ==================== 05 — GITHUB ==================== -->
 
 <div align="center">
 
-### `06 — CURRENTLY BUILDING MYSELF`
+<!-- ==================== 05 — GITHUB ==================== -->
+
+<div align="center">
+
+# `05 — GITHUB`
+
+<p>
+  <sub>Code. Commit. Build. Repeat.</sub>
+</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/Docker-0B1F2A?style=for-the-badge&logo=docker&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/System%20Design-0B1F2A?style=for-the-badge&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Backend%20Architecture-0B1F2A?style=for-the-badge&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Web%20Security-0B1F2A?style=for-the-badge&logoColor=22D3EE"/>
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=RohitV33&show_icons=true&hide_border=true&bg_color=07111A&title_color=E2F3F5&text_color=8CA3AD&icon_color=10B981&ring_color=10B981&number_color=E2F3F5&rank_icon=github"
+  width="95%"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=RohitV33&hide_border=true&background=07111A&ring=10B981&fire=22D3EE&currStreakLabel=E2F3F5&sideLabels=8CA3AD&dates=5D737D&currStreakNum=E2F3F5&sideNums=E2F3F5&stroke=07111A"
+  width="95%"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+</div>
+
+
+---
+
+<!-- ==================== 06 — CURRENTLY EXPLORING ==================== -->
+
+<div align="center">
+
+# `06 — CURRENTLY EXPLORING`
+
+<p>
+  <sub>Building systems. Understanding architecture. Going deeper.</sub>
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Docker-07111A?style=for-the-badge&logo=docker&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/System%20Design-07111A?style=for-the-badge&logo=diagramsdotnet&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/Backend%20Architecture-07111A?style=for-the-badge&logo=serverless&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Web%20Security-07111A?style=for-the-badge&logo=hackthebox&logoColor=10B981"/>
 
 <br><br>
 
-**Learning isn't a phase. It's part of the workflow.**
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🐳
+
+**Docker**
+
+<br>
+
+<sub>Containerization</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**System Design**
+
+<br>
+
+<sub>Scalable Systems</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+**Backend**
+
+<br>
+
+<sub>Architecture</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛡️
+
+**Security**
+
+<br>
+
+<sub>Web Security</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h3>Learning isn't a phase. It's part of the workflow.</h3>
+
+<br>
+
+<code>BUILD</code>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<code>BREAK</code>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<code>LEARN</code>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<code>REBUILD</code>
 
 </div>
 
 <br>
-
 ---
 
 <div align="center">
