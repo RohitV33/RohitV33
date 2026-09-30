@@ -192,7 +192,7 @@ with the frontend.
 <br><br>
 
 A skill-exchange platform where students can teach,
-learn and connect without using money
+learn and connect without using money.
 
 <br>
 
