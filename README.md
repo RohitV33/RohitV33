@@ -445,7 +445,7 @@ Understand it. Fix it. Ship it.
 <br>
 
 If you're working on something interesting,
-I'd love to hear about it.
+I'd love to hear about it
 
 <br>
 
