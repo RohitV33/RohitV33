@@ -66,7 +66,7 @@
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="art/header.png" width="100%" alt="Anime developer at workstation"/>
+<img src="profile.png" width="100%" alt="profile"/>
 
 </td>
 </tr>
