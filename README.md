@@ -335,7 +335,11 @@ Understand it. Fix it. Ship it.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/RohitV33/RohitV33/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
+<img
+  src="https://raw.githubusercontent.com/RohitV33/RohitV33/output/github-contribution-grid-snake-dark.svg"
+  width="95%"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
