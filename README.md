@@ -1,220 +1,219 @@
-<div align="center">
-
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%3E+booting+rohit.verma...;%3E+full-stack+systems+online;%3E+security+layer+enabled;%3E+ready+to+build."
-/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=90&text=ROHIT%20VERMA&fontSize=42&fontColor=E2F3F5&fontAlignY=55&color=0:07111A,45:0B2730,75:065F5B,100:10B981&desc=FULL-STACK%20DEVELOPER&descSize=13&descAlignY=82&descColor=A7C7CC&animation=fadeIn"
-/>
-
-
-<p>
-  <strong>Building interfaces, APIs & products that solve real problems.</strong>
-</p>
+<!-- ==================== HEADER ==================== -->
 
 <div align="center">
+
+<img src="art/header.png" width="100%" alt="Rohit Verma Anime Developer Header"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+%26+API+Developer;Exploring+AI+%26+Machine+Learning;Problem+Solver;Building+Things+That+Matter." />
+
+<br/>
 
 <a href="https://github.com/RohitV33">
-<img src="https://img.shields.io/badge/GITHUB-07111A?style=for-the-badge&logo=github&logoColor=E2F3F5"/>
+<img src="https://img.shields.io/github/followers/RohitV33?style=for-the-badge&logo=github&label=Followers&color=10B981"/>
 </a>
-&nbsp;
+<a href="https://github.com/RohitV33?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-07111A?style=for-the-badge&logo=github&logoColor=10B981"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=RohitV33&style=for-the-badge&color=10B981&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+**Building interfaces, APIs & intelligent products that solve real-world problems.**
+
+<br/>
+
 <a href="https://linkedin.com/in/rawhit01">
 <img src="https://img.shields.io/badge/LINKEDIN-07111A?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
 </a>
-&nbsp;
 <a href="mailto:verma61421st@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-07111A?style=for-the-badge&logo=gmail&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/EMAIL-07111A?style=for-the-badge&logo=gmail&logoColor=10B981"/>
+</a>
+<a href="https://github.com/RohitV33">
+<img src="https://img.shields.io/badge/GITHUB-07111A?style=for-the-badge&logo=github&logoColor=E2F3F5"/>
 </a>
 
 </div>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=RohitV33&style=for-the-badge&color=10B981&label=PROFILE+VIEWS"/>
-
-
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=13&duration=3500&pause=1200&color=8CA3AD&center=true&vCenter=true&repeat=true&width=650&height=30&lines=React+%2B+Node.js+%2B+MongoDB;%E2%80%A2+Building+real-world+projects+%E2%80%A2;%E2%80%A2+Learning+something+new+every+day+%E2%80%A2"
-/>
-
-</div>
-
-
-
 ---
 
-
-<div align="center">
-  
-# `01 — INTRO`
-
-<br>
-
-> **I don't just learn technologies. I build with them.**
-
-<br>
-
-I'm a full-stack developer who enjoys turning ideas into products,
-working across the frontend, backend, databases and everything in between.
-
-<br>
-
-`BUILDING` &nbsp; `LEARNING` &nbsp; `EXPERIMENTING`
-
-</div>
-
-<br>
-
----
+<!-- ==================== 01 — ABOUT ME ==================== -->
 
 <div align="center">
 
-# `THE STACK`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c,react,tailwind,nodejs,express,mongodb,mysql,git,github,postman,vscode,vite&perline=8&theme=dark"/>
-
-<br><br>
-
-<code>JAVA</code> · <code>JAVASCRIPT</code> · <code>PYTHON</code> · <code>C</code>
-
-<br>
-
-<code>REACT</code> · <code>TAILWIND</code> · <code>NODE</code> · <code>EXPRESS</code>
-
-<br>
-
-<code>MONGODB</code> · <code>MYSQL</code> · <code>REST APIs</code> · <code>JWT</code> · <code>SOCKET.IO</code>
+# `01 — ABOUT ME`
 
 </div>
 
-<br>
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+- 💻 Full Stack Developer passionate about building real-world applications.
+- 🚀 Developing applications using **React, Node.js & MongoDB**.
+- ⚙️ Interested in Backend Engineering, REST APIs & System Design.
+- 🤖 Exploring **AI, Machine Learning & intelligent applications**.
+- 🔐 Interested in Web Security and vulnerability testing.
+- 🧠 Practicing Data Structures & Algorithms using Java.
+- 🌱 Continuously learning, experimenting and building.
+- 🎯 Focused on writing clean, scalable and maintainable code.
+
+<br/>
+
+`BUILDING` · `LEARNING` · `EXPERIMENTING`
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="art/header.png" width="100%" alt="Anime developer at workstation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `02 — SELECTED WORK`
-
-<br>
+<!-- ==================== 02 — TECH STACK ==================== -->
 
 <div align="center">
 
-### `✦ CIVICLENS-AI`
+# `02 — THE STACK`
 
-## **Civic reporting, powered by AI.**
+<br/>
 
-<br>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c&theme=dark"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark"/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,mongodb,mysql&theme=dark"/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,vercel&theme=dark"/>
+
+<br/>
+
+`REST APIs` · `JWT` · `Socket.IO` · `YOLOv8` · `MongoDB` · `MySQL`
+
+</div>
+
+---
+
+<!-- ==================== 03 — SELECTED WORK ==================== -->
+
+<div align="center">
+
+# `03 — SELECTED WORK`
+
+</div>
+
+<div align="center">
+
+### ✦ CIVICLENS-AI
+
+## Civic reporting, powered by AI.
 
 <img src="https://img.shields.io/badge/REACT-07111A?style=flat-square&logo=react&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/NODE-07111A?style=flat-square&logo=node.js&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/PYTHON-07111A?style=flat-square&logo=python&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/NODE.JS-07111A?style=flat-square&logo=node.js&logoColor=10B981"/>
 <img src="https://img.shields.io/badge/FASTAPI-07111A?style=flat-square&logo=fastapi&logoColor=10B981"/>
 <img src="https://img.shields.io/badge/YOLOv8-07111A?style=flat-square&logoColor=22D3EE"/>
 <img src="https://img.shields.io/badge/MONGODB-07111A?style=flat-square&logo=mongodb&logoColor=10B981"/>
 
-<br><br>
+<br/><br/>
 
-A full-stack platform that lets users report civic issues through images
-and relevant details, with AI-assisted image analysis.
+A full-stack civic issue reporting platform that enables citizens to report public problems through images and descriptions, with AI-assisted image analysis.
 
-<br>
+**React → Node.js → FastAPI → YOLOv8**
 
-`React` → `Node.js` → `FastAPI` → `YOLOv8`
-
-<br>
-
-**Full-stack reporting · REST APIs · AI integration · Image analysis**
+`Full-stack Development` · `REST APIs` · `AI Integration` · `Image Analysis`
 
 <a href="https://civic-lens-blush.vercel.app/">
-<img src="https://img.shields.io/badge/↗%20VIEW%20LIVE%20PROJECT-10B981?style=for-the-badge&logo=vercel&logoColor=07111A"/>
+<img src="https://img.shields.io/badge/↗_VIEW_LIVE_PROJECT-10B981?style=for-the-badge&logo=vercel&logoColor=07111A"/>
 </a>
 
-</div>
+<br/><br/>
 
+---
 
+### ✦ WEB FUZZING TOOL
 
-<br><br>
-
-
-<div align="center">
-
-### `✦ WEB FUZZING TOOL`
-
-## **Finding what shouldn't be there.**
-
-<br>
+## Finding what shouldn't be there.
 
 <img src="https://img.shields.io/badge/NODE.JS-07111A?style=flat-square&logo=node.js&logoColor=10B981"/>
 <img src="https://img.shields.io/badge/EXPRESS-07111A?style=flat-square&logo=express&logoColor=E2F3F5"/>
-<img src="https://img.shields.io/badge/REST%20APIs-07111A?style=flat-square&logoColor=22D3EE"/>
 <img src="https://img.shields.io/badge/REACT-07111A?style=flat-square&logo=react&logoColor=22D3EE"/>
 
-<br><br>
+<br/><br/>
 
-A team-built web security testing platform focused on automated
-vulnerability scanning.
+A team-built web security testing platform focused on automated vulnerability scanning.
 
-I worked primarily on the **backend**, building APIs,
-handling scan requests and connecting the scanning workflow
-with the frontend.
-
-<br>
+My primary contribution was backend development, including API design, scan request handling and frontend integration.
 
 `API Design` · `Scan Processing` · `Backend Integration`
 
-<a href="https://bartr-blond.vercel.app/">
-<img src="https://img.shields.io/badge/↗%20VIEW%20LIVE%20PROJECT-10B981?style=for-the-badge&logo=vercel&logoColor=07111A"/>
-</a>
+<br/><br/>
 
-</div>
+---
 
+### ✦ BARTR
 
-
-<br><br>
-
-<div align="center">
-
-### `✦ BARTR`
-
-## **Skills are currency.**
-
-<br>
+## Skills are currency.
 
 <img src="https://img.shields.io/badge/REACT-07111A?style=flat-square&logo=react&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/NODE-07111A?style=flat-square&logo=node.js&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/NODE.JS-07111A?style=flat-square&logo=node.js&logoColor=10B981"/>
 <img src="https://img.shields.io/badge/MONGODB-07111A?style=flat-square&logo=mongodb&logoColor=10B981"/>
 <img src="https://img.shields.io/badge/SOCKET.IO-07111A?style=flat-square&logo=socket.io&logoColor=E2F3F5"/>
 <img src="https://img.shields.io/badge/JWT-07111A?style=flat-square&logo=jsonwebtokens&logoColor=22D3EE"/>
 
-<br><br>
+<br/><br/>
 
-A skill-exchange platform where students can teach,
-learn and connect without using money.
+A skill-exchange platform where students can teach, learn and connect without using money.
 
-<br>
-
-**Profiles · Skill matching · Real-time messaging · Authentication**
-
-<br>
+**Profiles · Skill Matching · Real-time Messaging · Authentication**
 
 <a href="https://bartr-blond.vercel.app/">
-<img src="https://img.shields.io/badge/↗%20VIEW%20LIVE%20PROJECT-10B981?style=for-the-badge&logo=vercel&logoColor=07111A"/>
+<img src="https://img.shields.io/badge/↗_VIEW_LIVE_PROJECT-10B981?style=for-the-badge&logo=vercel&logoColor=07111A"/>
+</a>
+
+<br/><br/>
+
+---
+
+### ✦ NAZARA
+
+## An e-commerce experience built from scratch.
+
+<img src="https://img.shields.io/badge/REACT-07111A?style=flat-square&logo=react&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/NODE.JS-07111A?style=flat-square&logo=node.js&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/EXPRESS-07111A?style=flat-square&logo=express&logoColor=E2F3F5"/>
+<img src="https://img.shields.io/badge/MONGODB-07111A?style=flat-square&logo=mongodb&logoColor=10B981"/>
+
+<br/><br/>
+
+A full-stack MERN e-commerce platform featuring product browsing, backend integration and shopping functionality.
+
+<a href="https://nazara-shop.vercel.app/">
+<img src="https://img.shields.io/badge/↗_VIEW_LIVE_PROJECT-10B981?style=for-the-badge&logo=vercel&logoColor=07111A"/>
 </a>
 
 </div>
 
-<br>
-
 ---
+
+<!-- ==================== 04 — HOW I BUILD ==================== -->
 
 <div align="center">
 
-# `03 — HOW I BUILD`
+# `04 — HOW I BUILD`
 
-<br>
+<br/>
 
 <table>
 <tr>
@@ -224,43 +223,40 @@ learn and connect without using money.
 
 **IDEA**
 
-<br>
+<br/>
 
 Start with a problem worth solving.
 
 </td>
-
 <td align="center" width="25%">
 
 ### `02`
 
 **BUILD**
 
-<br>
+<br/>
 
 Turn the idea into something real.
 
 </td>
-
 <td align="center" width="25%">
 
 ### `03`
 
 **BREAK**
 
-<br>
+<br/>
 
 Find what doesn't work.
 
 </td>
-
 <td align="center" width="25%">
 
 ### `04`
 
 **IMPROVE**
 
-<br>
+<br/>
 
 Understand it. Fix it. Ship it.
 
@@ -270,23 +266,23 @@ Understand it. Fix it. Ship it.
 
 </div>
 
-<br>
-
 ---
+
+<!-- ==================== 05 — PROBLEM SOLVING ==================== -->
 
 <div align="center">
 
-# `04 — PROBLEM SOLVING`
+# `05 — PROBLEM SOLVING`
 
-<br>
+<br/>
 
+<a href="https://leetcode.com/u/rohit6142/">
 <img src="https://leetcard.jacoblin.cool/rohit6142?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+</a>
 
-<br><br>
+<br/><br/>
 
-### `300+` PROBLEMS SOLVED
-
-<br>
+### Practicing DSA with Java
 
 `ARRAYS` · `STRINGS` · `HASHING` · `SLIDING WINDOW`
 
@@ -296,169 +292,211 @@ Understand it. Fix it. Ship it.
 
 </div>
 
-<br>
-
 ---
-<div align="center">
 
-<!-- ==================== 05 — GITHUB ==================== -->
-
-<div align="center">
-
-<!-- ==================== 05 — GITHUB ==================== -->
+<!-- ==================== 06 — GITHUB ANALYTICS ==================== -->
 
 <div align="center">
 
-# `05 — GITHUB`
+# `06 — GITHUB ANALYTICS`
 
-<p>
-  <sub>Code. Commit. Build. Repeat.</sub>
-</p>
+<br/>
 
-<br>
+<p><sub>Code. Commit. Build. Repeat.</sub></p>
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img
-  src="https://github-readme-stats-fast.vercel.app/api?username=RohitV33&show_icons=true&hide_border=true&bg_color=07111A&title_color=E2F3F5&text_color=8CA3AD&icon_color=10B981&ring_color=10B981&number_color=E2F3F5&rank_icon=github"
-  width="95%"
-/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=RohitV33&show_icons=true&hide_border=true&bg_color=07111A&title_color=10B981&text_color=E2F3F5&icon_color=10B981&rank_icon=github" width="100%"/>
 
 </td>
-
 <td width="50%" align="center">
 
-<img
-  src="https://streak-stats.demolab.com/?user=RohitV33&hide_border=true&background=07111A&ring=10B981&fire=22D3EE&currStreakLabel=E2F3F5&sideLabels=8CA3AD&dates=5D737D&currStreakNum=E2F3F5&sideNums=E2F3F5&stroke=07111A"
-  width="95%"
-/>
+<img src="https://streak-stats.demolab.com/?user=RohitV33&hide_border=true&background=07111A&ring=10B981&fire=22D3EE&currStreakLabel=10B981&sideLabels=8CA3AD&dates=5D737D&currStreakNum=E2F3F5&sideNums=E2F3F5" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RohitV33&layout=compact&hide_border=true&bg_color=07111A&title_color=10B981&text_color=E2F3F5" width="50%"/>
 
 </div>
 
-
 ---
 
-<!-- ==================== 06 — CURRENTLY EXPLORING ==================== -->
+<!-- ==================== 07 — CONTRIBUTION SNAKE ==================== -->
 
 <div align="center">
 
-# `06 — CURRENTLY EXPLORING`
+# `07 — CONTRIBUTION SNAKE`
 
-<p>
-  <sub>Building systems. Understanding architecture. Going deeper.</sub>
-</p>
+<br/>
 
-<br>
+<img src="https://raw.githubusercontent.com/RohitV33/RohitV33/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
 
-<img src="https://img.shields.io/badge/Docker-07111A?style=for-the-badge&logo=docker&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/System%20Design-07111A?style=for-the-badge&logo=diagramsdotnet&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Backend%20Architecture-07111A?style=for-the-badge&logo=serverless&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Web%20Security-07111A?style=for-the-badge&logo=hackthebox&logoColor=10B981"/>
+</div>
 
-<br><br>
+---
+
+<!-- ==================== 08 — CURRENTLY EXPLORING ==================== -->
+
+<div align="center">
+
+# `08 — CURRENTLY EXPLORING`
+
+<br/>
+
+<img src="https://img.shields.io/badge/DOCKER-07111A?style=for-the-badge&logo=docker&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-07111A?style=for-the-badge&logo=diagramsdotnet&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/BACKEND%20ARCHITECTURE-07111A?style=for-the-badge&logo=serverless&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/WEB%20SECURITY-07111A?style=for-the-badge&logo=hackthebox&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-07111A?style=for-the-badge&logo=python&logoColor=10B981"/>
+
+<br/><br/>
 
 <table>
 <tr>
-
 <td align="center" width="25%">
 
 ### 🐳
 
 **Docker**
 
-<br>
+<br/>
 
 <sub>Containerization</sub>
 
 </td>
-
 <td align="center" width="25%">
 
 ### ⚙️
 
 **System Design**
 
-<br>
+<br/>
 
 <sub>Scalable Systems</sub>
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🏗️
 
 **Backend**
 
-<br>
+<br/>
 
 <sub>Architecture</sub>
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🛡️
 
-**Security**
+**Security & AI**
 
-<br>
+<br/>
 
-<sub>Web Security</sub>
+<sub>Intelligent Systems</sub>
 
 </td>
-
 </tr>
 </table>
 
-<br>
+<br/>
 
 <h3>Learning isn't a phase. It's part of the workflow.</h3>
 
-<br>
+<br/>
 
 <code>BUILD</code>
-&nbsp;&nbsp;→&nbsp;&nbsp;
+&nbsp; → &nbsp;
 <code>BREAK</code>
-&nbsp;&nbsp;→&nbsp;&nbsp;
+&nbsp; → &nbsp;
 <code>LEARN</code>
-&nbsp;&nbsp;→&nbsp;&nbsp;
+&nbsp; → &nbsp;
 <code>REBUILD</code>
 
 </div>
 
-<br>
 ---
+
+<!-- ==================== 09 — LET'S CONNECT ==================== -->
 
 <div align="center">
 
-# LET'S BUILD.
+# `09 — LET'S CONNECT`
 
-<br>
+<br/>
 
-If you're working on something interesting,
-I'd love to hear about it
+If you're working on something interesting, I'd love to hear about it.
 
-<br>
+<br/><br/>
 
-<a href="mailto:verma61421st@gmail.com">
-<img src="https://img.shields.io/badge/START%20A%20CONVERSATION-10B981?style=for-the-badge&logo=gmail&logoColor=07111A"/>
+<a href="https://linkedin.com/in/rawhit01">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="mailto:verma61421st@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<sub>React · Node.js · APIs · Security · Curiosity</sub>
+<a href="https://github.com/RohitV33">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-07111A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br><br>
+<br/><br/>
+
+<sub>React · Node.js · APIs · Security · AI · Curiosity</sub>
+
+<br/><br/>
 
 **`Build something worth remembering.`**
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111A,50:065F5B,100:10B981&height=130&section=footer" width="100%"/>
+
 </div>
+
+<!--
+==================== CONTRIBUTION SNAKE SETUP ====================
+
+Create this file:
+.github/workflows/snake.yml
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: RohitV33
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+==================== END ====================
+-->
