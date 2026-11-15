@@ -152,7 +152,7 @@ A full-stack civic issue reporting platform that enables citizens to report publ
 
 <br/><br/>
 
-A team-built web security testing platform focused on automated vulnerability scanning.
+A team-built web security testing platform focused on automated vulnerability scanning
 
 My primary contribution was backend development, including API design, scan request handling and frontend integration.
 
